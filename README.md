@@ -10,5 +10,3 @@
 
 
 <p align="left"> <a href="https://twitter.com/engin_yo" target="blank"><img src="https://img.shields.io/twitter/follow/engin_yo?logo=twitter&style=for-the-badge" alt="engin_yo" /></a> </p>
-
-- 🔭 I’m currently working on [Annotaion, Inc.](https://annotation.co.jp/)
